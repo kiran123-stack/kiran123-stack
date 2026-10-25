@@ -31,9 +31,11 @@ Experimental mental-health web application using AI APIs.
 
 JavaScript • React • Next.js • Python • APIs • Git
 
-Currently seeking
+## Currently seeking
+
 Junior Full-Stack Developer / Junior Software Engineer opportunities.
 I'm interested in joining an early-stage product startup where I can contribute to frontend development, backend APIs, integrations, and product improvements.
-Preferred: Full-time · Remote-friendly · India
+
+**Preferred:* Full-time · Remote-friendly · India
 
 If you're building something interesting, feel free to reach out.
